@@ -3,7 +3,7 @@
   
 ### 1. props와 emit의 방법으로 데이터 전송
 ---
-<img src="image-1.png" width='300' />  
+<img src="image.png" width='300' />  
 
     <단점>
     - 컴포넌트의 계층이 깊어지면 불필요한 데이터 전달을 해야하는 문제 발생
